@@ -1,4 +1,6 @@
 #include<>stdio.h>
 ahsdsaldhsalkdh
 hdasldhaslhsald
-;hadasldh
+
+
+add colour to this game 
